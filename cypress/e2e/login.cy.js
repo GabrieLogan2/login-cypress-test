@@ -1,3 +1,4 @@
+const { it } = require("mocha")
 
 describe('Login and register', function(){
   beforeEach(() => {
